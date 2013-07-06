@@ -1,8 +1,8 @@
  1  MS    MAIN STREET                      960   138
  2  MG    MAIN GATE                       1728   136
  3  SM    SPACE MOUNTAIN                   593   150
- 4  IJ    INDIANA JONES                      0   120
- 5  CC    SLEEPING BEAUTY'S CASTLE           0   139
+ 4  IJ    INDIANA JONES                    200   120
+ 5  CC    SLEEPING BEAUTY'S CASTLE          50   139
  6  DS    DISNEY'S STATUE                    2   141
  7  ST    STAR TOURS                       500   139
  8  JC    JUNGLE CRUISE                    170   137
@@ -11,10 +11,10 @@
 11  MY    MICKEY'S HOUSE                    50   140
 12  SS    MAIN STREET STATION              200   149
 13  HM    HAUNTED MANSION                 2628   139
-14  SP    SPLASH MOUNTAIN                    0     0
-15  NS    NEW ORLEANS STATION              200   147
+14  SP    SPLASH MOUNTAIN                  231   151
+15  NS    NEW ORLEANS STATION              200   148
 16  TR    TIKI ROOM                        220   139
-17  SW    SNOW WHITE'S SCARY ADVENTURES      0     0
-18  IA    IT'S A SMALL WORLD                 0     0
+17  SW    SNOW WHITE'S SCARY ADVENTURES    120   140
+18  IA    IT'S A SMALL WORLD               180   139
 19  PC    PIRATES OF THE CARIBBEAN         766   139
 20  TS    TOMORROWLAND STATION             200   148
